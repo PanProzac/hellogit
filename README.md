@@ -1,1 +1,1 @@
-# This is readme, hello Git!
+# Sprawdzenie nowych opcji!
